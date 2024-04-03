@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_759169_busines_0.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 22:34:07</sys_created_on>
+        <sys_id>db3b4b0493910210b03a36718bba1056</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_759169_busines_0.user</sys_name>
+        <sys_package display_value="Business Trip" source="x_759169_busines_0">c33b0b0493910210b03a36718bba10bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Business Trip">c33b0b0493910210b03a36718bba10bf</sys_scope>
+        <sys_update_name>sys_user_role_db3b4b0493910210b03a36718bba1056</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 22:34:07</sys_updated_on>
+    </sys_user_role>
+</record_update>

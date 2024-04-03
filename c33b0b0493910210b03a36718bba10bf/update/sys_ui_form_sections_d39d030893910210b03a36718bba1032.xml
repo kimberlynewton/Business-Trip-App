@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d39d030893910210b03a36718bba1032" sys_domain="global" table="x_759169_busines_0_business_trip" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-27 22:44:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f9d030893910210b03a36718bba1035</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_759169_busines_0_business_trip" name="x_759169_busines_0_business_trip" sys_domain="global" view="Default view">d39d030893910210b03a36718bba1032</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_759169_busines_0_business_trip" sys_domain="global" view="Default view">e7cb430493510210b03a36718bba10f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-27 22:44:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-27 22:44:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b9d030893910210b03a36718bba1036</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_759169_busines_0_business_trip" name="x_759169_busines_0_business_trip" sys_domain="global" view="Default view">d39d030893910210b03a36718bba1032</sys_ui_form>
+            <sys_ui_section caption="Trip Information" display_value="Trip Information" name="x_759169_busines_0_business_trip" sys_domain="global" view="Default view">539d030893910210b03a36718bba1031</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-27 22:44:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-27 22:45:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bdd470893910210b03a36718bba105c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_759169_busines_0_business_trip" name="x_759169_busines_0_business_trip" sys_domain="global" view="Default view">d39d030893910210b03a36718bba1032</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_759169_busines_0_business_trip" sys_domain="global" view="Default view">1fdd470893910210b03a36718bba1059</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-27 22:45:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_759169_busines_0_business_trip</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-27 22:44:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d39d030893910210b03a36718bba1032</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_759169_busines_0_business_trip</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Business Trip" source="x_759169_busines_0">c33b0b0493910210b03a36718bba10bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Business Trip">c33b0b0493910210b03a36718bba10bf</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d39d030893910210b03a36718bba1032</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-27 22:44:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

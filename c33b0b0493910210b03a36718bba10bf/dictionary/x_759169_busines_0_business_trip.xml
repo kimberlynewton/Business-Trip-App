@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1bcb074493910210b03a36718bba10dd" extends="task" label="Business Trip" max_length="40" name="x_759169_busines_0_business_trip" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Employee" max_length="32" name="u_employee" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="u_location" type="string"/>
+    </element>
+</database>
